@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35818.85 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JurnalModul5", "JurnalModul5.csproj", "{873627CD-C29E-4DBC-9405-61EE79579F22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul5_103022300022", "Modul5_103022300022.csproj", "{873627CD-C29E-4DBC-9405-61EE79579F22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
